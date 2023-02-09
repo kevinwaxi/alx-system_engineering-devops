@@ -1,0 +1,1 @@
+Devops, about bash projects
